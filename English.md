@@ -40,6 +40,22 @@
     7.  We didn't take a vacation last year.
     8.  Where were you on Sunday? I couldn't find you.
 4.  Passive
-    1.  
+    1.  This house was built 100 years ago.
+    2.  We weren't invited to the party last week.
+    3.  Where were you born? In Cairo.
+    4.  My car is at the garage. It is being repaired.
+    5.  I don't have my keys. They were stolen last week.
+5.  Verb forms
+    1.  It wasn't raining, so we didn't need an umbrella.
+    2.  Somebody broke the window.
+6.  Future
+    1.  Andrew is playing tennis tomorrow.
+    2.  Are you going out tonight?
+    3.  What time is the concert tonight? It starts at 7:30.
+    4.  What are you going to wear to the wedding next weeK?
+    5.  We're going to the movies on Saturday. Do you want to come with us?
+    6.  I'll call you tomorrow, OK? OK, bye.
+    7.  I don't want my car anymore. I'm going to sell it.
+7.  Modals, imperative, etc.
 
 和訳をお願いします。間違いも指摘してください
