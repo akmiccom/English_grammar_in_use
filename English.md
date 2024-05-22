@@ -57,5 +57,25 @@
     6.  I'll call you tomorrow, OK? OK, bye.
     7.  I don't want my car anymore. I'm going to sell it.
 7.  Modals, imperative, etc.
+    1.  I may go to the movies tonight, but I'm not sure.
+    2.  May I sit here? Sure.
+    3.  I'm having a party next week, but Eric and Rachel can't come.
+    4.  Before Maria came to the United States, she couldn't understand much English.
+    5.  It's evening, and you havent eaten anything all day. You must be hungry.
+    6.  It's a good movie. You should go and see it.
+    7.  It's a nice day. Should we go for a walk?
+    8.  What time do you have to go to the dentist tomorrow?
+    9.  We had to walk home last night. There were no buses.
+    10. We didn't have to wait very long for the bus - it came in a few minutes.
+    11. Would you like some coffee? No, thank you.
+    12. I don't really want to go out. I'd prefer to stay home.
+    13. Please don't go. Stay here with me.
+    14. It's a nice day. Let's go out.
+8.  There and it
+    1.  Excuse me, is there a hotel near here?
+    2.  There are a lot of accidents on this road. It's very dangerous.
+    3.  I was hungry when I got home, but there wasn't anything to eat.
+    4.  It's two miles from our house to downtown.
+    5.  Is it true that you're moving to Dallas?
 
 和訳をお願いします。間違いも指摘してください
