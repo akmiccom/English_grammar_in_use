@@ -1,15 +1,15 @@
 # English grammar in use
 
 1. Present
-   1. I'm cold. Can I close the window?
-   2. Tom isn't here. He's at work.
-   3. Is your mother home? No, she's out.
-   4. These shoes are nice. How much are they?
-   5. Look, there's Sarah. She's wearing a brown coat.
-   6. You can turn off the TV. I'm not watching it.
-   7. Is Ben working? Yes, he is.
-   8. Look, there's Emily! Where's she going?
-   9. The earth goes around the sun.
+   1.  I'm cold. Can I close the window?
+   2.  Tom isn't here. He's at work.
+   3.  Is your mother home? No, she's out.
+   4.  These shoes are nice. How much are they?
+   5.  Look, there's Sarah. She's wearing a brown coat.
+   6.  You can turn off the TV. I'm not watching it.
+   7.  Is Ben working? Yes, he is.
+   8.  Look, there's Emily! Where's she going?
+   9.  The earth goes around the sun.
    10. We often sleep late on weekends.
    11. We don't watch TV very often.
    12. Do you play the guitar? Yes, but I'm not very good.
@@ -98,5 +98,24 @@
     10. How long does it take to cross the Atlantic by ship?
     11. I don't remember what Anna was wearing at the party.
     12. Do you know whether Jack is home? Yes, I think so.
+11. Reported speech
+    1.  I saw Eric a week ago. He said that he would call me, but he didn't.
+    2.  Why did Tim go to bed so early? He said that he was tired.
+12. -ing and to ...
+    1.  You shouldn't work so hard.
+    2.  It's late. I have to go now.
+    3.  Rachel dicided to sell her car.
+    4.  I don't mind getting up early.
+    5.  Do you like to get up (getting up) early?
+    6.  Do you want me to lend you some money?
+    7.  He's very funny. He makes me laugh.
+    8.  Sofia went to the store to get some furit.
+13. Go, get, do, make, and have
+    1.  The weather looks nice. I'm going swimming.
+    2.  I'm sorry your mother is sick. I hope she gets better soon.
+    3.  Kate got into the car and drove away.
+    4.  Should I open the window? No, it's OK. I'll do it.
+    5.  I'm sorry. I made a mistake.
+    6.  Dis you have enough time to do everything you wanted to do?
 
 和訳をお願いします。間違いも指摘してください
