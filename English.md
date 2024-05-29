@@ -52,6 +52,7 @@
     1. Andrew is playing tennis tomorrow.
     2. Are you going out tonight?
     3. What time is the concert tonight? It starts at 7:30.
+       1. What time does the concert start tonight?
     4. What are you going to wear to the wedding next weeK?
     5. We're going to the movies on Saturday. Do you want to come with us?
     6. I'll call you tomorrow, OK? OK, bye.
@@ -117,5 +118,31 @@
     4.  Should I open the window? No, it's OK. I'll do it.
     5.  I'm sorry. I made a mistake.
     6.  Dis you have enough time to do everything you wanted to do?
+14. Pronouns and possessives
+    1.  I don't want this book. You can have it
+    2.  Sue and Kevin are going to the movies. Do you want to go with them?
+    3.  I know Amy, but I don't know her husband.
+    4.  Hawaii is famous for its beaches.
+    5.  I didn't have an umbrella, so Emily gave me hers.
+    6.  I went to the movies with a friend of mine.
+    7.  We had a good vacation. We enjoyed ourselves.
+    8.  Kate and Nicole are good friends. They know each other well.
+    9.  Have you met Mr. Black's wife?
+    10. Have you seen my parents' car?
+15. A and the
+    1.  I'm going to buy a hat and an umbrella.
+    2.  What do you do? I'm a dentist.
+    3.  I'm going shopping. I need a new pair of jeans.
+    4.  I like the people here. They are very friendly.
+    5.  We can't get into the house without a key.
+    6.  Where can I get some information about hotels here?
+    7.  We enjoyed our vacation. The hotel was very nice.
+    8.  The table is in the middle of the room.
+    9.  What did you have for breakfast.
+    10. I finish work at 5:00 every day.
+    11. I'm tired. I'm going to bed.
+    12. We don't eat meat very often.
+    13. Times Square is in New York.
+    14. My friends are staying at the Regent Hotel.
 
 和訳をお願いします。間違いも指摘してください
