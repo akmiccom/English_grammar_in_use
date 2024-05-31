@@ -144,5 +144,16 @@
     12. We don't eat meat very often.
     13. Times Square is in New York.
     14. My friends are staying at the Regent Hotel.
+16. Determiners and pronouns
+    1.  I'm going on vacation next week. Oh, that's nice.
+    2.  Is there a bank near here? Yes, there's one on the corner.
+    3.  This cup is dirty. Can I have clean one?
+    4.  I'm going shopping. I'm going to buy some clothes.
+    5.  Where's your luggage? I don't have one.
+    6.  Tracey and Jeff don't have any children.
+    7.  How much money do yo have? None.
+    8.  There is nobody in the room. It's empty.
+    9.  What did you say? Nothing.
+    10. 
 
 和訳をお願いします。間違いも指摘してください
