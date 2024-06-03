@@ -62,7 +62,7 @@
     2. May I sit here? Sure.
     3. I'm having a party next week, but Eric and Rachel can't come.
     4. Before Maria came to the United States, she couldn't understand much English.
-    5. It's evening, and you havent eaten anything all day. You must be hungry.
+    5. It's evening, and you haven't eaten anything all day. You must be hungry.
     6. It's a good movie. You should go and see it.
     7. It's a nice day. Should we go for a walk?
     8. What time do you have to go to the dentist tomorrow?
@@ -147,13 +147,22 @@
 16. Determiners and pronouns
     1.  I'm going on vacation next week. Oh, that's nice.
     2.  Is there a bank near here? Yes, there's one on the corner.
-    3.  This cup is dirty. Can I have clean one?
+    3.  This cup is dirty. Can I have a clean one?
     4.  I'm going shopping. I'm going to buy some clothes.
-    5.  Where's your luggage? I don't have one.
+    5.  Where's your luggage? I don't have any.
     6.  Tracey and Jeff don't have any children.
-    7.  How much money do yo have? None.
+    7.  How much money do you have? None.
     8.  There is nobody in the room. It's empty.
     9.  What did you say? Nothing.
-    10. 
+    10. I'm hungry. I want something to eat.
+    11. It rained every day last week.
+    12. Everybody needs friends.
+    13. Most children like to play.
+    14. I like both those pictures.
+    15. I haven't read either of these books.
+    16. Do you have many friends?
+    17. We like movies, so we go to the movies a lot.
+    18. There were few people in the theater. It was almost empty.
+    19. They have a little money, so they're not poor.
 
 和訳をお願いします。間違いも指摘してください
