@@ -164,5 +164,13 @@
     17. We like movies, so we go to the movies a lot.
     18. There were few people in the theater. It was almost empty.
     19. They have a little money, so they're not poor.
+17. Adjecitves and adverbs
+    1.  I don't speak any foreign languages.
+    2.  He ate his dinner very quickly.
+    3.  You speak English very well
+    4.  Helen wants a bigger car.
+    5.  Do you feel better today? No, I feel more worse.
+    6.  Athens is older than Rome.
+    7.  I can run faster than he can.
 
 和訳をお願いします。間違いも指摘してください

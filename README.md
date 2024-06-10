@@ -122,3 +122,27 @@
    - 1年後には、自分のレベルに応じた公式の英語試験（例えば、TOEIC、IELTSなど）を受けることを目指す。
 
 このようなスケジュールを組むことで、効率的に英語を学びながら、忘却曲線に基づく適切なタイミングでの復習を行い、知識を定着させることができます。重要なのは、継続的に学習を続けることと、自分の進捗を定期的に確認しながら調整することです。
+
+
+## Table of Contents
+
+1. Present and past
+2. Present perfect and past
+3. Present perfect continuous and past perfect
+4. Past continuous, past perfect, used to and would
+5. Questions and auxiliary verbs
+6. Modal verbs
+7. The passive
+8. The future
+9. Linking verbs
+10. The infinitive and the -ing form
+11. Nouns and articles
+12. Pronouns and determiners
+13. Relative clauses
+14. Adjectives and adverbs
+15. Comparison
+16. Conjunctions and prepositions
+17. Clauses
+18. Reporting
+19. Word formation
+20. Spelling and punctuation
