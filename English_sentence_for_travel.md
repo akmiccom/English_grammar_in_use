@@ -1,42 +1,86 @@
 # English_sentence_for_travel
 
+## First Target
+**外国人の友達をつくり、英語で会話ができるようになる**
+
 ## example 1
 
+### 会話のきっかけ
+
+- Start small talk.
+  1. How are you doing?
+-  Response
+  1. I'm good, thanks. And you?
+-  Questions
+  1. I'm great. By the way, may I ask you something?
+  3. Are you a tourist or a local?
+-  If it were a tourist
+  1. Where are you from? (I'm from ???)
+  3. Yeah, I've heard it's a nice place but I've never been.
+  4. I'd like to go there someday.
+  5. What do you recommend in your country?
+  6. Especially, food, shopping, tourist attractions, and so on.
+  7. I see. I'll try them when I go there. Thank you.
+-  If it were a local
+  1. This is actually my first time here.
+  2. I've been looking on the internet, but only have general information.
+  3. I'd like to know your recommendations.
+  4. Especially, food, shopping, tourist attractions, and so on.
+-  Finally.
+  1. Actually, I'm from Japan. Have you been to Japan?
+  2. You should go there sometime.
+  3. It's been talking to you.
+-  When you are in trouble?
+  1. Sorry, I didn't catch that. Could you please say it again?.
+  2. Can you tell me more about this?
+  3. Sorry for the trouble. お騒がせしました。
+
+### 自己紹介
+1. My name is Makoto Yaguchi. I'm fifty.
+2. There are four people in my family, with my wife, two sons and me.
+3. I'm cheerful and easy going.
+4. I'm an engineer for an automotive parts manufacturer.
+5. I work as a Computational Mechanics Engineer now.
+6. I like watching sports. Especially I love baseball games.
+7. Also, I enjoy riding my road bike. It feels so good.
+8. I'm studying English because I want to talk with you guys.
+9. My goal is to be able to talk to people all over the world.
+
 ### 空港で
-空港で
-こんにちは。実は私は初めてクアラルンプールに来ました。
-インターネットで調べてきたのですが、一般的な情報しかありませんでした。
-私は、もっと地元の人におすすめの食事やレストラン、観光地などを教えてもらいたいです。
-あなたのおすすめはありますか？
-At the airport.
-Hi, I'm actually new to Kuala Lumpur.
-I've been researching on the internet but have only found general information.
-I'd like to get more recommendations from the local on dining, restaurants, tourist attractions, etc.
-Do you have any recommendations of your own?
+- 空港で
+  - こんにちは。実は私は初めてクアラルンプールに来ました。
+  - インターネットで調べてきたのですが、一般的な情報しかありませんでした。
+  - 私は、もっと地元の人におすすめの食事やレストラン、観光地などを教えてもらいたいです。
+  - あなたのおすすめはありますか？
+- At the airport.
+-   Hi, I'm actually new to Kuala Lumpur.
+-   I've been researching on the internet but have only found general information.
+-   I'd like to get more recommendations from the local on dining, restaurants, tourist attractions, etc.
+-   Do you have any recommendations of your own?
 
-すみません、聞き取れませんでした。もう一度お願いします。
-Sorry, I didn't catch that. Please say it again.
+- すみません、聞き取れませんでした。もう一度お願いします。
+- Sorry, I didn't catch that. Please say it again.
 
-これについて詳しく教えてください。
-Can you tell me more about this?
+- これについて詳しく教えてください。
+- Can you tell me more about this?
 
-わかりました。今回の滞在中にそこに行ってみます。ありがとうございました。
-I understand. I'll try to go there during this stay. Thank you very much.
+- わかりました。今回の滞在中にそこに行ってみます。ありがとうございました。
+- I understand. I'll try to go there during this stay. Thank you very much.
 
 ### 駅で
-駅で
-こんにちは。私は以前クアラルンプールに来たことがあって、Touch'n Go カードを持っています。
-でも、使えないようですがどうすればいいですか？新しくしないとだめですか？
+- 駅で
+  - こんにちは。私は以前クアラルンプールに来たことがあって、Touch'n Go カードを持っています。
+  - でも、使えないようですがどうすればいいですか？新しくしないとだめですか？
 
-At the station.
-Hi, I have been to Kuala Lumpur before and have a Touch'n Go card.
-But, it doesn't seem to work, what should I do? Do I have to renew it?
+- At the station.
+  - Hi, I have been to Kuala Lumpur before and have a Touch'n Go card.
+  - But, it doesn't seem to work, what should I do? Do I have to renew it?
 
-すみません、聞き取れませんでした。もう一度お願いします。
-Sorry, I didn't catch that. Please say it again.
+- すみません、聞き取れませんでした。もう一度お願いします。
+- Sorry, I didn't catch that. Please say it again.
 
-わかりました。ちなみにクレジットカードのタッチで乗ることができますか？
-I understand. By the way, can I get on with a touch of my credit card?
+- わかりました。ちなみにクレジットカードのタッチで乗ることができますか？
+- I understand. By the way, can I get on with a touch of my credit card?
 
 ### ホテルで
 ホテルで
@@ -151,3 +195,16 @@ Do you have any recommendation menu?
   4. Not bad, thanks for asking. How about you?
   5. Doing fine, thank you. And you?
 
+
+### 仕事
+### 出身
+### 趣味
+### スポーツ
+### 食べ物
+### 性格
+### ファッシオン
+### 映画
+### 音楽
+### ペット
+### 
+### 
