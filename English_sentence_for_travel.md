@@ -16,7 +16,7 @@
   3. Are you a tourist or a local?
 -  If it were a tourist
   1. Where are you from? (I'm from ???)
-  3. Yeah, I've heard it's a nice place but I've never been.
+  3. Cool, I've heard it's a nice place but I've never been.
   4. I'd like to go there someday.
   5. What do you recommend in your country?
   6. Especially, food, shopping, tourist attractions, and so on.
@@ -36,13 +36,13 @@
   3. Sorry for the trouble. お騒がせしました。
 
 ### 自己紹介
-1. My name is Makoto Yaguchi. I'm fifty.
-2. There are four people in my family, with my wife, two sons and me.
-3. I'm cheerful and easy going.
-4. I'm an engineer for an automotive parts manufacturer.
-5. I work as a Computational Mechanics Engineer now.
-6. I like watching sports. Especially I love baseball games.
-7. Also, I enjoy riding my road bike. It feels so good.
+1. My name is Makoto Yaguchi. I'm almost 50 years old.
+2. I have a wonderful family, including my wife and two sons.
+3. I'm cheerful and friendly.
+4. I've been a designer at an automotive parts manufacturer for ten years.
+5. Now I work as a Computational Mechanics Engineer.
+6. In my free time, I like watching sports. Especially I love baseball games.
+7. I also enjoy riding my road bike. It feels so good.
 8. I'm studying English because I want to talk with you guys.
 9. My goal is to be able to talk to people all over the world.
 
