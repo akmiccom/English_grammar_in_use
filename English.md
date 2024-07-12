@@ -169,8 +169,21 @@
     2.  He ate his dinner very quickly.
     3.  You speak English very well
     4.  Helen wants a bigger car.
-    5.  Do you feel better today? No, I feel more worse.
+    5.  Do you feel better today? No, I feel worse.
     6.  Athens is older than Rome.
     7.  I can run faster than he can.
+    8.  Tennis isn't as popular as soccer.
+    9.  The weather today is the same as yesterday.
+    10. The Best West Motel is the most expensive motel in town.
+    11. The movie was every bad. I think it's the worst movie I've ever seen.
+    12. Why don't you buy a car? You've got enough money.
+    13. Is your English good enough to have a conversation?
+    14. I'm too tired to go.
+18. Word order
+    1.  Sue bought some new shoes yesterday. They're very nice.
+    2.  I always drink coffee in the morning.
+    3.  They are never at home durling the day.
+    4.  Where's Emma? She isn't here yet.
+    5.  I locked the door, and I gave Sarah the keys.
 
 和訳をお願いします。間違いも指摘してください
