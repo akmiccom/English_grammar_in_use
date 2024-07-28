@@ -40,3 +40,13 @@
 38. Are they high school students? No, they aren't.
 39. Are you happy? Yes, we are.
 40. He is kind.
+41. She is my teacher.
+42. Is that cat your pet?
+43. These children are her sutdents.
+44. Those girls are his daughter.
+45. This is our car.
+46. Is that your class room?
+47. Is that thier house?
+48. My son is a college student.
+49. Are your wife a nurse?
+50. Are her eyes blue? No, they aren't.
