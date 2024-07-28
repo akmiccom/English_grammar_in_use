@@ -20,3 +20,23 @@
 18. Are those cars new or old? They are new.
 19. Are these men American or German? They are German.
 20. Are those women Japanese or Korean? They are Korean.
+21. What is this? It's a camera.
+22. What is that? It's an ashtray.
+23. What is this? It's a clock.
+24. What is that? It's a pillow.
+25. What are these? They are French magazines.
+26. What are those birds? They are sparrows.
+27. What are those? They are old stamps.
+28. What are those men? They are policemen.
+29. What are thoes women? They are secretaries.
+30. What are those people? They are lawyers.
+31. I'm a student.
+32. Are you a teacher?
+33. He is a lawyer.
+34. Is she a nurse? No, she isn't.
+35. We are Japanese.
+36. Are you students?
+37. They are policemen.
+38. Are they high school students? No, they aren't.
+39. Are you happy? Yes, we are.
+40. He is kind.
