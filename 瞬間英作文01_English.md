@@ -50,3 +50,13 @@
 48. My son is a college student.
 49. Are your wife a nurse?
 50. Are her eyes blue? No, they aren't.
+51. Who is this girl? She is my sister.
+52. Who is that boy? He is Robert.
+53. Who are those men? They are my dad and brother.
+54. Who are those Women? They are my mom and sister.
+55. Who is that tall man? He is Mr. Brown.
+56. Who is taht beautiful woman? She is Ms. Smith.
+57. Who are you? I'm John Green.
+58. Who am I? You are my daughter.
+59. Who are they? They are my frineds.
+60. Who are they? They are my students.
